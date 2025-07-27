@@ -12,6 +12,8 @@ public class Helloworld {
    System.out.println("7");
    System.out.println("8");
    System.out.println("9");
+
+		System.out.prinln("10");
    
 	}
 
